@@ -5,7 +5,8 @@
 ### Sobre mí
 
 Estudiante en su último curso de Ingeniería Electrónica de Telecomunicaciones especializado en el desarrollo del hardware y software de sistemas encastados.
-Actualmente tengo 5 proyectos subidos a GitHub.<br><br>
+Actualmente tengo 5 proyectos subidos a GitHub y todos ellos son privados por motivo de seguridad.<br><br>
+Correo de contacto: albertmataidanez@gmail.com <br><br>
 
 <!-- Proyectos -->
 ## Proyectos destacados
@@ -16,7 +17,7 @@ Este proyecto consta de la programación de un MSP432 y del diseño y desarrollo
 
 ### Proyecto 2: Control del DFRobot
 ![Imagen del proyecto](mise.jpg)<br><br>
-En este proyecto se crea y se programa una placa de control con un MSP430 para que un pequeño vehículo electrónico tenga diferentes funciones como un control manual, seguimiento de luz, etc.<br><br><br>
+En este proyecto se crea y se programa una placa de control con un MSP430 para que un pequeño vehículo electrónico tenga diferentes funciones como un control manual, seguimiento de luz, seguimiento de línea, etc.<br><br><br>
 
 ### Proyecto 3: Diseño y síntesis de un sistema I2C
 ![Imagen del proyecto](i2c.jpg)<br><br>
