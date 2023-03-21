@@ -1,16 +1,33 @@
-### Hi there 👋
+![Banner de GitHub](banner0.jpg)
 
-<!--
-**albmaid/albmaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Encabezado -->
+## ¡Hola! Soy Albert 👋
 
-Here are some ideas to get you started:
+<!-- Descripción -->
+### Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante en su último curso de Ingeniería Electrónica de Telecomunicaciones especializado en el desarrollo del hardware y software de sistemas encastados.
+
+<!-- Proyectos -->
+## Proyectos destacados
+
+### Proyecto 1: Control de un motor BLDC
+![Imagen del proyecto](lse1.jpg)
+Este proyecto consta de la programación de un MSP432 y del diseño y desarrollo de una PCB con función de un circuito ESC para controlar la rotación de un motor BLDC en bucle cerrado.
+
+### Proyecto 2: Control del DFRobot
+![Imagen del proyecto](mise.jpg)
+En este proyecto se crea y se programa una placa de control con un MSP430 para que un pequeño vehículo electrónico tenga diferentes funciones como un control manual, seguimiento de luz, etc.
+
+### Proyecto 3: Diseño y síntesis de un sistema I2C
+![Imagen del proyecto](i2c.jpg)
+En este proyecto se diseña un sistema I2C a nivel RTL y se verifica su funcionamiento mediante una FPGA.
+
+### Proyecto 4: Diseño de un sistema para comunicarse con el módulo SHTC3
+![Imagen del proyecto](sensor.jpg)
+En este proyecto se diseña y sintetiza a nivel RTL un sistema capaz de usar el módulo de I2C creado en el Proyecto 3 para comunicarse con un sensor de temperatura y humedad.<br><br>
+
+<!-- Pie de página -->
+<p align="center">
+	¡Gracias por visitar mi perfil! 💻
+</p>
