@@ -1,12 +1,11 @@
-![Banner de GitHub](banner0.jpg)
-
 <!-- Encabezado -->
 ## ¡Hola! Soy Albert 👋
 
 <!-- Descripción -->
 ### Sobre mí
 
-Estudiante en su último curso de Ingeniería Electrónica de Telecomunicaciones especializado en el desarrollo del hardware y software de sistemas encastados.<br><br>
+Estudiante en su último curso de Ingeniería Electrónica de Telecomunicaciones especializado en el desarrollo del hardware y software de sistemas encastados.
+Actualmente tengo X proyectos subidos a GitHub.<br><br>
 
 <!-- Proyectos -->
 ## Proyectos destacados
