@@ -5,7 +5,7 @@
 ### Sobre mí
 
 Estudiante en su último curso de Ingeniería Electrónica de Telecomunicaciones especializado en el desarrollo del hardware y software de sistemas encastados.
-Actualmente tengo 5 proyectos subidos a GitHub.<br><br>
+Actualmente tengo 5 proyectos subidos a GitHub, y todos ellos están en privado por motivos de privacidad.<br><br>
 Correo de contacto: albertmataidanez@gmail.com <br><br>
 
 <!-- Proyectos -->
